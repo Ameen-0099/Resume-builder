@@ -1,0 +1,228 @@
+body{
+    padding: 150px;
+    margin: 0px;
+   color: white;
+}
+
+h1{
+ font-size: xx-large;
+}
+
+.resume-container{
+      display: flex;
+      height:auto;
+      width: 80%;
+      background-color:gainsboro;
+      color: black;
+}
+
+/* .left-side img {
+              width: 150px;
+} */
+
+
+.left-side{
+      height: 1000px;
+      width: 40%;
+      background-color: #060E40;
+      line-height: 1.5;
+      color: white;
+      padding: 5px;
+} 
+
+
+.contact-container {
+         margin-top:40px;
+} 
+
+
+
+.call {
+   display: flex;
+   margin-left: 5px;
+   padding: 10px;
+   
+}
+
+
+.no{
+   margin-left: 10px;
+   margin-top: 1px;
+   height: auto;
+}
+
+.call i{
+   margin-top: 20px;
+}
+
+
+.email{
+   display: flex;
+   margin-left: 5px;
+   padding: 10px;
+   
+}
+
+
+.gmail{
+   margin-left: 10px;
+   margin-top: 1px;
+   height: auto;
+}
+
+.email i{
+   margin-top: 20px;
+}
+
+.home{
+   display: flex;
+   margin-left: 5px;
+   padding: 10px;
+   
+}
+
+
+.address{
+   margin-left: 10px;
+   margin-top: 1px;
+   height: auto;
+}
+
+.home i{
+   margin-top: 20px;
+}
+
+
+.left-section h1 {
+    margin-left: 50px;
+}
+
+.left-section img {
+     width: 250px;
+     height: auto;
+   
+}
+
+.left-section h1 {
+       margin-bottom:0px;
+       margin-left: 5px;
+}
+
+#sec{
+ display: flex;
+justify-content: center;
+padding: 10px;
+margin-top: 0px;
+
+}
+
+
+#sec h1{
+    margin-left: 0px;
+}
+
+
+
+
+.call {
+   display: flex;
+   margin-left: 0px;
+   padding: 10px;
+
+   
+}    
+   
+
+.call i{
+ margin-top: 18px;
+}
+
+.no{
+   margin-left: 7px;
+   
+   
+}
+
+.email{
+    display: flex; 
+    margin-left: 0px;
+    padding: 10px;
+        
+}
+.email i {
+      margin-top: 4px;
+     
+} 
+
+.gmail {
+  margin-left: 7px;  
+
+}
+.gmail p {
+         margin-top: 0px;
+}
+
+.home{
+   display: flex; 
+  margin-left: 0px;
+  padding: 10px;
+       
+}
+.home i {
+     margin-top: 4px;
+    
+} 
+
+.address {
+ margin-left: 7px;  
+ margin-top: 1px;
+
+}
+.address p {
+       margin-top: 2px;
+}
+
+/* right-section */
+
+
+.h1{
+    margin-left: 60px;
+    color: white; 
+    background-color: #060E40; 
+    padding: 10px;
+    height: 40px; 
+    width: 295px;
+    border-radius:20px; 
+    
+}
+
+.about{
+     margin-left: 10px;
+     font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
